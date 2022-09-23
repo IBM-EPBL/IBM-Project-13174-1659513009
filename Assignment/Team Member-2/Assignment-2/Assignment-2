@@ -1,5 +1,6 @@
 import random
 import time
+
 while (1):
     temp = random.randint(0, 100)
     humidity = random.randint(0, 100)
